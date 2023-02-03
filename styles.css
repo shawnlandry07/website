@@ -1,0 +1,115 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family:papyrus;
+    font-size: 75px;
+    color: white;
+    }
+*{
+  
+    background-image: url(https://www.prosportsbackgrounds.com/wp-content/uploads/2020/11/2019-NFL-Tampa-Bay-Buccaneers-no-schedule-hardwood-desktop.png);
+     background-size: 3500px;
+
+  
+}
+h2 {
+    color: white;
+    font-style: italic;
+    font-family:papyrus;¨
+}
+h3 {
+    color: white;
+    font-family:papyrus;
+    text-align: :right;
+    
+    
+}
+.odds {
+    display: inline;
+    position: absolute;
+    top: 70%;
+   width: 1280px;
+   border: hidden;
+    
+}
+table {
+    border-collapse: collapse;
+    width: 50;
+
+}
+th, td {
+    width:230px;
+    text-align:center;
+    border:5px solid transparent;
+    padding: 40px;px
+ 
+}
+.geeks {
+    border-right:hidden;
+}
+.gfg {
+    border-collapse:separate;
+    border-spacing:0 15px;
+}
+form input {
+    width: 98%;
+    margin: 5px;
+    border: 2px solid white;
+    padding: 10px;
+    /* background-color: #000; */
+    background-color: transparent;
+    font-weight: 600;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+   }
+  
+   form input:focus {
+    border: none;
+   }
+  
+   textarea {
+    min-height: 100px;
+    background-color: transparent;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 98%;
+    margin: 5px;
+    border: 2px solid white;
+    resize: none;
+    font-weight: 600;
+    padding: 10px;
+  }
+  
+  .img1{
+     width: 750px;
+     height: 1000px;
+    padding-left: 1100px;
+    padding: top 1100px; ;
+  }
+
+  .img2{
+    position: absolute;
+    top: 85%;
+    left: 2%;
+  }
+
+.tbss {
+    position:absolute;
+    top: 155%;
+    left:2.2%;
+}
+ .legend{
+  height: 100px;
+ }
+
+ .logo{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+ .rjs{
+    width: 19px;00px;
+    height: 430px;
+ }
